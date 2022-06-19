@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: hsl(193, 100%, 96%);
+    background-image: url(https://res.cloudinary.com/dzflnjyii/image/upload/v1655542641/i4g/landing%20page/bg-hero-desktop_1_ionkmd.svg);
+    padding:20px;
+
+}
+.firstdiv{
+    display: flex;
+    min-width: 0;
+    height:100%;
+}
+
+.img1{
+    width:240px;
+    height: 39px;
+}
+
+.img2{
+    width:400px;
+    height: 285px;
+}
+.innerdiv1{
+    padding:30px;
+    width:100%;
+}
+.innerdiv11{
+    margin-bottom: 60px;
+}
+.innerdiv2{
+    padding:10px;
+    width:100%;
+}
+
+.button1{
+    margin-bottom: 20px;
+}
+
+.main1{
+    background-color: white;
+
+}
+.div1{
+    margin: 150px 70px 30px 70px;
+    display: flex;
+    border-style: hidden;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2)
+}
+
+.div2{
+    margin: 30px 70px 30px 70px;
+    display: flex;
+    border-style: hidden;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2)
+}
+
+.div3{
+    margin: 30px 70px 100px 70px;
+    display: flex;
+    border-style: hidden;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2)
+}
+
+.innerdiv3{
+    padding:40px;
+    width:100%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+.innerdiv11{
+    margin-bottom: 60px;
+}
+.innerdiv4{
+    margin-left: 5%;
+    padding:10px;
+    width:100%;
+}
+
+#footer {
+    background-color:hsl(192, 100%, 9%);
+    margin-top: 200px;
+    padding-top: 10px;
+    height: 300px;
+    width: 100%;
+  }
+  
+  .links {
+    padding-top: 20px;
+  }
+  
+  .quick-links li {
+    list-style-type: none;
+    padding-top: 5px;
+  }
+  
+  .quick-links li:first-child {
+    color: #ffffff;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .quick-links li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .social-links a span {
+    color: #ffffff;
+    letter-spacing: 20px;
+  }
+  
+  .copyright p {
+    padding-top: 10px;
+    color: #ffffff;
+    font-size: 12px; 
+  }
